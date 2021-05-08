@@ -38,7 +38,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "./",
+  "homepage": "https://apps.karthikkoppaka.com/camera/",
   "browserslist": {
     "production": [
       ">0.2%",
